@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalraheemmokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="abdalraheemmokhtar" /> </p>
 
-- 🔭 I’m currently working with **Haggar Group**
+- 🔭 I’m currently working with **MTN Sudan**
 
 - 🌱 I’m currently learning **Computer Vision**
 
 - 📝 I regularly write articles on [https://abdalraheemmokhtar.github.io/](https://abdalraheemmokhtar.github.io/)
 
-- 💬 Ask me about **Data analysis, machine learning**
+- 💬 Ask me about **Data analysis, Machine Learning**
 
 - 📫 How to reach me **abdalraheem.mokhtar@gmail.com**
 
