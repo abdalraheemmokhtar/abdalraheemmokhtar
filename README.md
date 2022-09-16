@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalraheemmokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="abdalraheemmokhtar" /> </p>
 
-- 🔭 I’m currently working with **MTN Sudan**
+- 🔭 I’m currently working with **GO Digital Services**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Data Science**
 
 - 📝 I regularly write articles on [https://abdalraheemmokhtar.github.io/](https://abdalraheemmokhtar.github.io/)
 
