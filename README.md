@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [https://abdalraheemmokhtar.github.io/](https://abdalraheemmokhtar.github.io/)
+- 📝 I regularly write articles on my personal blog here [https://abdalraheemmokhtar.github.io/](https://abdalraheemmokhtar.github.io/)
 
 - 💬 Ask me about **Data analysis, Machine Learning**
 
