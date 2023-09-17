@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalraheem</h1>
-<h3 align="center">A passionate data analyst based in Dubai</h3>
+<h3 align="center">A passionate data analyst/web developer based in Dubai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/? username=abdalraheemmokhtar&label=Profile%20views&color=0e75b6&style=flat" alt="abdalraheemmokhtar" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on my personal blog here [https://abdalraheemmokhtar.github.io/](https://abdalraheemmokhtar.github.io/)
 
-- 💬 Ask me about **Data analysis, Machine Learning**
+- 💬 Ask me about **Data analysis, Machine Learning, web development**
 
 - 📫 How to reach me **abdalraheem.mokhtar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdalraheem-mokhtar-6a9a09160/](https://www.linkedin.com/in/abdalraheem-mokhtar-6a9a09160/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abdalraheem-mokhtar-6a9a09160/](https://www.linkedin.com/in/abdalraheem-mokhtar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
