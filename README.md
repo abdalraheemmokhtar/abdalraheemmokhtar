@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abdalraheem.mokhtar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdalraheem-mokhtar-6a9a09160/](https://www.linkedin.com/in/abdalraheem-mokhtar/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/abdalraheem-mokhtar/](https://www.linkedin.com/in/abdalraheem-mokhtar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
