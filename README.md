@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdalraheem</h1>
-<h3 align="center">A passionate data analyst/web developer based in Dubai</h3>
+<h3 align="center">A passionate data Scientist/web developer based in Dubai</h3>
 
 
 
-- 🔭 I’m currently working with **GO Digital Services**
+- 🔭 I’m currently working as a **Data Scientist** @ **GO Digital Services**
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **MLOps**
 
 - 📝 I regularly write articles on my personal blog here [https://abdalraheemmokhtar.github.io/](https://abdalraheemmokhtar.github.io/)
 
-- 💬 Ask me about **Data analysis, Machine Learning, web development**
+- 💬 Ask me about **Data Science, Machine Learning, web development**
 
 - 📫 How to reach me **abdalraheem.mokhtar@gmail.com**
 
