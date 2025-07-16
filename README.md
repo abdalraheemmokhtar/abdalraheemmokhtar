@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as a **Data Scientist** @ **Zain Sudan**
+- 🔭 I’m currently working as a **Data Science Team Leader** @ **Zain Sudan**
 
 - 🌱 I’m currently learning **MLOps**
 
