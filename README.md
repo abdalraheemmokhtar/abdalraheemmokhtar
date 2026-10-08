@@ -29,6 +29,7 @@ Foundations       C · databases · algorithms · testing · secure deployment
 
 | Project | What it demonstrates |
 | --- | --- |
+| [**Astra French**](https://github.com/abdalraheemmokhtar/astra-french) | An adaptive French-learning product with persistent learner modelling, evidence-based mastery, speaking practice, and structured tutoring. |
 | [**SchoolOfMath**](https://github.com/abdalraheemmokhtar/SchoolOfMath) | A structured mathematics academy with curriculum, assessments, learner analytics, mastery tracking, and a guided tutor. |
 | [**Server Realms**](https://github.com/abdalraheemmokhtar/Server_realms) | An original browser roguelite with Phaser, procedural combat, browser audio, local progression, and an optional WebSocket co-op relay. |
 | [**Podcast Helper**](https://github.com/abdalraheemmokhtar/Podcast-helper-with-OpenAI) | An AI-assisted workflow for turning long-form audio into useful summaries and highlights. |
