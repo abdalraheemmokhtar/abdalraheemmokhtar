@@ -1,8 +1,10 @@
 <div align="center">
 
-# AB D A L R A H E E M  ·  M O K H T A R
+# Abdalraheem Mokhtar
 
-### I turn data, AI, and messy ideas into useful software.
+### AI product builder · Data · Full-stack systems
+
+Building practical software from Abu Dhabi, UAE.
 
 <p>
   <a href="https://github.com/abdalraheemmokhtar"><img src="https://img.shields.io/badge/GitHub-abdalraheemmokhtar-17201d?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -12,92 +14,47 @@
 
 </div>
 
----
+## What I build
 
-## About
-
-I’m a developer and lifelong learner interested in **data science, machine learning, AI product engineering, and full-stack web development**.
-
-I enjoy working across the whole path: understanding a problem, shaping the data, building the product, and shipping something people can actually use.
-
-- Currently based in **Abu Dhabi, UAE**
-- Building practical AI and web-product experiments
-- Learning in public through projects, notes, and prototypes
-- Interested in thoughtful products, strong fundamentals, and simple interfaces
-
-> **My bias:** build the smallest useful version, learn from reality, then make it better.
-
----
-
-## What I’m building toward
+I turn messy problems into useful software: adaptive learning products, AI-assisted workflows, interactive experiences, and reliable backends. I care about clear product reasoning, evidence-based progress, and shipping systems that people can actually use.
 
 ```text
-AI products        →  LLM applications · RAG · agents · evaluation · multimodal workflows
-Reliable backends  →  APIs · data modelling · background jobs · observability
-Useful interfaces  →  TypeScript · React · Next.js · accessible product design
-Shipping systems   →  Docker · CI/CD · cloud deployment · secure production workflows
+AI products       LLM applications · structured outputs · evaluation · multimodal workflows
+Product systems   TypeScript · React · Next.js · accessible interfaces · analytics
+Backend systems   Python · FastAPI · Django · APIs · data modelling · background jobs
+Foundations       C · databases · algorithms · testing · secure deployment
 ```
 
-## Current technology map
+## Featured work
 
-These are the technologies I’m using, strengthening, or intentionally exploring because they sit close to where modern software is moving:
-
-### AI & data
-
-<p>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"></a>
-  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"></a>
-  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" alt="scikit-learn"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas"></a>
-  <a href="https://www.langchain.com/"><img src="https://img.shields.io/badge/LLM%20Apps-RAG%20%7C%20Agents%20%7C%20Evals-6d4aff?style=for-the-badge" alt="LLM applications"></a>
-</p>
-
-### Product engineering
-
-<p>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"></a>
-  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" alt="React"></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js"></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" alt="Django"></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"></a>
-</p>
-
-### Data, infrastructure & delivery
-
-<p>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis" alt="Redis"></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker"></a>
-  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions"></a>
-  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" alt="AWS"></a>
-  <a href="https://developers.cloudflare.com/"><img src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare"></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
-</p>
-
-## Selected work
-
-| Project | What it explores |
+| Project | What it demonstrates |
 | --- | --- |
-| [**School of Math**](https://github.com/abdalraheemmokhtar/SchoolOfMath) | A structured knowledge base for mathematical science and informatics. |
-| [**RDBMDS**](https://github.com/abdalraheemmokhtar/RDBMDS) | Building a database management system from first principles. |
-| [**Podcast Helper**](https://github.com/abdalraheemmokhtar/Podcast-helper-with-OpenAI) | Turning long-form audio into useful summaries and highlights. |
-| [**Puddle**](https://github.com/abdalraheemmokhtar/Puddle) | A Django marketplace application with authentication and product flows. |
+| [**SchoolOfMath**](https://github.com/abdalraheemmokhtar/SchoolOfMath) | A structured mathematics academy with curriculum, assessments, learner analytics, mastery tracking, and a guided tutor. |
+| [**Server Realms**](https://github.com/abdalraheemmokhtar/Server_realms) | An original browser roguelite with Phaser, procedural combat, browser audio, local progression, and an optional WebSocket co-op relay. |
+| [**Podcast Helper**](https://github.com/abdalraheemmokhtar/Podcast-helper-with-OpenAI) | An AI-assisted workflow for turning long-form audio into useful summaries and highlights. |
+| [**RDBMDS**](https://github.com/abdalraheemmokhtar/RDBMDS) | A database-management-system experiment built from first principles in C. |
+| [**FastAPI-V**](https://github.com/abdalraheemmokhtar/FastAPI-V) | A Python API project exploring domain structure, services, testing, and typed boundaries. |
 
-[**See all repositories →**](https://github.com/abdalraheemmokhtar?tab=repositories)
+[**Browse all repositories →**](https://github.com/abdalraheemmokhtar?tab=repositories) · [**Visit my portfolio →**](https://abdalraheemmokhtar.github.io/portfolio/)
 
-## A few things I care about
+## Engineering principles
 
-- **Clarity over cleverness** — good software should explain itself.
-- **Evidence over hype** — test ideas with real users and real data.
-- **Fundamentals still matter** — especially when AI makes it easy to generate code.
-- **Small, consistent progress** — compound learning beats occasional intensity.
+- **Clarity over cleverness:** good software should explain itself.
+- **Evidence over hype:** measure learning, product value, and system behavior.
+- **Strong fundamentals:** AI-generated code is only useful when the underlying system is understood.
+- **Small useful releases:** ship a focused slice, learn from reality, then improve it.
+- **Honest product claims:** distinguish measured results, estimates, and unknowns.
 
-## Let’s connect
+## Currently exploring
 
-If you’re building something around **AI, data, education, or useful software**, I’d be glad to hear about it.
+AI product engineering, evaluation and observability, adaptive learning systems, practical automation, Cloudflare-native deployment, and system design.
+
+## Connect
+
+If you are building something around **AI, data, education, or useful software**, I would be glad to hear about it.
 
 <p>
+  <a href="mailto:abdalraheemmokhtar@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/abdalraheem-mokhtar-6a9a09160/">LinkedIn</a> ·
   <a href="https://abdalraheemmokhtar.github.io/portfolio/">Portfolio</a>
 </p>
